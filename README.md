@@ -1,2 +1,3 @@
 # Solidity-smart-contracts
-Here are just a few examples of the kind of contracts I have created in the past for my clients.
+These are just a few examples of the contracts I have recently created for my clients.
+In terms of Solidity smart contracts, I can create any kind of customizable contract you require.
